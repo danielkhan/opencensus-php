@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/migrating-stackdriver-trace/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/integrations/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/migration-guide/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/integrating-guzzle/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/integrating-laravel/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/integrating-silex/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/integrating-symfony/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/integrating-wordpress/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/using-the-extension/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://opencensus.io/opencensus-php/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
